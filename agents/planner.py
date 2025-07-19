@@ -3,7 +3,7 @@ import json
 
 class PlannerAgent:
     def __init__(self):
-        gemini_api_key = "AIzaSyCDvE1YrktUPzWyK6t7-RhFxq0_Ny2qIfo"  # Replace with your key
+        gemini_api_key = "Your Gemni API"  # Replace with your key
 
         self.llm = ChatGoogleGenerativeAI(
             model="gemini-2.0-flash",
