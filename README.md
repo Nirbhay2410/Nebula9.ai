@@ -50,7 +50,7 @@ A **multi-agent research assistant** built with **LangChain, Gemini API, and Str
 
 ```bash
 # Clone repo
-[git clone https://github.com/YOUR_USERNAME/self-correcting-research-agent.git](https://github.com/Nirbhay2410/Nebula9.ai.git)
+[[git clone https://github.com/YOUR_USERNAME/self-correcting-research-agent.git](https://github.com/Nirbhay2410/Nebula9.ai.git)](https://github.com/Nirbhay2410/Nebula9.ai.git)
 cd self-correcting-research-agent
 
 # Create virtual environment
