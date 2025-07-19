@@ -1,0 +1,21 @@
+# Core dependencies
+streamlit
+langchain
+langchain-google-genai
+
+# Web scraping
+aiohttp
+beautifulsoup4
+
+# PDF generation
+reportlab
+
+# JSON/YAML handling
+python-dotenv
+
+# Async support for Streamlit
+nest_asyncio
+
+# Optional: Linting & formatting
+black
+flake8
