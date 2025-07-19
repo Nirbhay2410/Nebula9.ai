@@ -4,7 +4,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 
 class ResearcherAgent:
     def __init__(self):
-        gemini_api_key = "AIzaSyCDvE1YrktUPzWyK6t7-RhFxq0_Ny2qIfo"
+        gemini_api_key = "Your Gemni API"
 
         self.llm = ChatGoogleGenerativeAI(
             model="gemini-2.0-flash",
