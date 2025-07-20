@@ -1,22 +1,38 @@
 # Nebula9.ai
-Self-Correcting Multi-Agent Research Team with Verifiable Citations
+
+📌 **Problem Statement**  
+Modern research requires fast, reliable, and fact-checked insights from vast online information.
+However, manually researching a complex topic is time-consuming, prone to bias, and often lacks proper citation validation.
+
+We need an autonomous multi-agent AI system that can:  
+
+✅ Plan a research strategy for any complex query  
+✅ Search the web & gather relevant data  
+✅ Validate facts against credible sources  
+✅ Generate a polished, well-structured research report with clickable references  
+✅ Allow users to interactively run research via a simple web interface  
+
+This project solves that problem by creating a Self-Correcting Multi-Agent Research Team that works like a team of virtual scientists—planning, researching, fact-checking, and compiling professional-quality reports.
+
+---
 
 
-<img width="1867" height="336" alt="image" src="https://github.com/user-attachments/assets/23b73922-16cf-418f-b95e-83d3dd0fda5f" />
 
 # 🤖 Self-Correcting Multi-Agent Research Team
 
 A **multi-agent research assistant** built with **LangChain, Gemini API, and Streamlit**, capable of:
 
-✅ Breaking down a topic into **subtopics**
+ Breaking down a topic into **subtopics**
 
-✅ Performing **web research & scraping**
+ Performing **web research & scraping**
 
-✅ **Summarizing & validating claims**
+ **Summarizing & validating claims**
 
-✅ Generating a **beautiful PDF report** with clickable links
+Generating a **beautiful PDF report** with clickable links
 
-✅ Providing a **Streamlit UI** for easy use
+ Providing a **Streamlit UI** for easy use  
+
+<img width="1867" height="336" alt="image" src="https://github.com/user-attachments/assets/23b73922-16cf-418f-b95e-83d3dd0fda5f" />  
 
 ---
 
