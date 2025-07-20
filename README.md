@@ -9,9 +9,13 @@ Self-Correcting Multi-Agent Research Team with Verifiable Citations
 A **multi-agent research assistant** built with **LangChain, Gemini API, and Streamlit**, capable of:
 
 ✅ Breaking down a topic into **subtopics**
+
 ✅ Performing **web research & scraping**
+
 ✅ **Summarizing & validating claims**
+
 ✅ Generating a **beautiful PDF report** with clickable links
+
 ✅ Providing a **Streamlit UI** for easy use
 
 ---
